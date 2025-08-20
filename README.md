@@ -22,14 +22,13 @@ Incluye:
 ## 📂 Estructura del proyecto
 ```
 
-CNN\_PROYECTO/
+CNN_PROYECTO/
 │── venv/                 # Entorno virtual (no se sube a GitHub normalmente)
 │── main.py               # Entrena la CNN y guarda el modelo
-│── probar\_imagen.py      # Prueba el modelo con imágenes externas
-│── mnist\_cnn.h5          # Modelo entrenado
-│── numero\_prueba.png     # Ejemplo de número escrito a mano
+│── probar_imagen.py      # Prueba el modelo con imágenes externas
+│── mnist_cnn.h5          # Modelo entrenado
+│── numeroprueba.png      # Imagen usada para pruebas escrito a mano
 │── Captura.png           # Imagen usada para pruebas
-│── Captura de pantalla...png # Otra imagen de prueba
 
 ````
 
